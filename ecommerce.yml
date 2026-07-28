@@ -1,8 +1,8 @@
 message:
-  greeting: Hello Spring Cloud
+  greeting: Hello Spring Cloud Bus
 company:
-  name: NJONE Company
-  ceo: Hong Gil Dong
+  name: JONE Consulting
+  ceo: Jone Kim
 token:
   secret: change-this-development-secret-to-a-minimum-32-byte-value
 gateway:
