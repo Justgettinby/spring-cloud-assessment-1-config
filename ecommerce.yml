@@ -1,0 +1,9 @@
+message:
+  greeting: Hello Spring Cloud
+company:
+  name: NJONE Company
+  ceo: Hong Gil Dong
+token:
+  secret: change-this-development-secret-to-a-minimum-32-byte-value
+gateway:
+  ip: 127.0.0.1
